@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 学术背景
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   # - block: skills
@@ -192,7 +192,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured
+      title: 焦点研究
       filters:
         folders:
           - publication
