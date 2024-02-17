@@ -118,5 +118,5 @@ highlight_name: true
 
 您好，我是徐文杰，毕业于<a href='https://www.tzc.edu.cn/'>台州学院-生命科学院</a>，主要研究方向为生态学与植物学，尤其关注寄生植物对生态系统中凋落物分解过程的影响。目前，我担任<a href='https://baike.baidu.com/item/%E6%B8%A9%E5%B7%9E%E5%A1%98%E4%B8%8B%E4%B8%AD%E5%AD%A6/5216760'>塘下中学</a>初中部的科学教师，致力于将科研经验和知识融入教学中，激发学生对科学探索的兴趣。我的研究集中在南方菟丝子寄生在鬼针草上时，通过不同途径如AMF（丛枝菌根真菌）介导的过程，影响土壤养分循环和凋落物分解的机制。此项研究旨在深入理解寄生植物和宿主植物间的相互作用及其对生态系统功能的影响，为生态保护和管理提供科学依据。
 
-<b style='color:red;'>最新</b>: 🎉🎉我开始了在<a href='https://baike.baidu.com/item/%E6%B8%A9%E5%B7%9E%E5%A1%98%E4%B8%8B%E4%B8%AD%E5%AD%A6/5216760'>塘下中学</a>的任教，于2023年9月开始.
+<b style='color:red;'>最新</b>: 🎉🎉我开始了在<a href='https://baike.baidu.com/item/%E6%B8%A9%E5%B7%9E%E5%A1%98%E4%B8%8B%E4%B8%AD%E5%AD%A6/5216760'>塘下中学</a>的任教，于2023年9月开始。
 {style="text-align: justify;"}
