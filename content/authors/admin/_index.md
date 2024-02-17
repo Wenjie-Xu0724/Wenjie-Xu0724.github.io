@@ -27,13 +27,13 @@ organizations:
 bio: 台州学院生物科学研究者，专注于寄生植物与土壤微生物
 
 # Interests to show in About widget
-研究方向:
+interests:
   - 寄生植物
   - 土壤微生物
   - 凋落物途径
 
 # Education to show in About widget
-教育背景:
+education:
   courses:
     - course: 科学学士学位，生物教育本科
       institution: 台州学院-生命科学学院, 指导老师（李钧敏）
